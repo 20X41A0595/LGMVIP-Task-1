@@ -1,5 +1,6 @@
 # LGMVIP-Task-1 TO-DO LIST
 #LETSGROWMORE Task-1 "To Create To-Do List Webapp"
+
 First, I designed the user interface using HTML to structure the web page. I added input fields for tasks and a button to add them to the list and also included an unordered list to display the tasks.
 
 Next, I styled the web app using CSS. Set the background color, font, and layout to create a modern and visually appealing design and added curved corners to the todo list box to give it a polished look.
